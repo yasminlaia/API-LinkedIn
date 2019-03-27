@@ -1,0 +1,5 @@
+Este código tem que como objetivo mostrar a criação de uma biblioteca que possa ser utilizada em outros códigos. 
+
+Arquivo dev_auth.py: Autentifica o acesso do token que é fornecido pelo site de desenvolvedor do LinkedIn. 
+
+Arquivo http_api.py: solicitação do token com base no id do cliente. 
